@@ -1,0 +1,37 @@
+## Plastic Spring Indexing
+
+I've been looking at different ways to add indexing to the progress bar.
+
+So, in the top housing, I basically created places to add—well, I gave walls for a plastic deformation spring to slot into. I've been trying to test different shapes to get the spring rate and sound just right.
+
+The first one I designed was a long, snaking sort of shape, which is standard if you're trying to make a plastic button in the housing and have a little triangle on the end to go in and out of the slots.
+
+It works really well, and it sounds awesome, but it only works in one direction.
+
+I was hoping that the triangle would deform down and slip in both ways, but it really doesn't.
+
+So, I've now been looking at different shapes that have a support arm on both sides of the detent.
+
+I haven't been able to find one that still has the same spring rate and the same sort of light, clicky snap sound.
+
+The spring arm is so much shorter, and you need two of them to get it to work in both directions.
+
+I started with shapes that were almost flower-like and have moved into something that now looks almost like little people—where you have the detent and then you snake as much material as you can down to the central base circle.
+
+They work way better in both directions, but they're a lot stiffer. I think this might just be a constraint given how I'm making these. If I wasn’t 3D printing them, you could obviously make the arms a lot thinner, and then the detent would perform much better. But I am a bit concerned as I think about moving forward with this—especially as it gets smaller—that this issue is only going to become more significant.
+
+Plus, all of this is really useful for the current version of the progress bar.
+
+But, you know, all of these springs are designed for 3D printing.
+
+And while they would work as plastic parts, I don’t think this part would ultimately be made from plastic anyway.
+
+So, how much is it worth my time to really refine this more and more, rather than just have one that’s good enough?
+
+I’m trying to debate between those two options.
+
+But I’m still waiting on the machined tops to come back.
+
+I ended up just printing enough of the top for me to do this testing of the detents.
+
+And so, while I’m in this sort of downtime—waiting for those parts to come back—there’s not much else I can do right now.

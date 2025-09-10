@@ -1,0 +1,6 @@
+## Current Progress Bar Overview
+- Not working, gears are still too tight together even after sanding all of them
+- Paper not fully figured out. I had cut a sticky note pad to be the right size but lost it. I still want to look into how to get that more integrated into the overall thing
+- Housing and flaps have been primed but not painted. They look really good though and I’m really happy with how those parts turned out.
+- Renders are looking good. I did one with a clear housing and it actually looks amazing which sucks because I really wanted to hate it
+- I haven’t got the indexing spring right at this scale yet. I 3D printed using my fdm machine because I thought I could get it on the first go but ideally I want to move to using a resin print

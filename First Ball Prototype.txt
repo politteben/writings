@@ -1,0 +1,15 @@
+## First Ball Prototype
+
+I got the parts in from JLC as well as the 3D printed Balls. The clear ball prints are interesting because while they’re flexible they’re really not elastic, so they deform but don’t spring back into the right shape. The other prints are powder prints so you can’t see through them, but they feel more like a bouncy ball. Still stiff though.
+
+Something that I didn’t think about when designing these boards is burning the bootloader onto them. I thought I would be able to do it with another SAMD21 board like the Arduino Zero but after trying for a bit that doesn’t seem to be working. So I think I’m gonna have to use a J-Link, which sucks because they’re quite expensive.
+
+---
+
+Got the J-Link and was able to flash the bootloader. I’m running into this issue where if I have the battery connected to the board it sometimes doesn’t show as connected to the computer. I think this might have to do with the battery protection circuit but truly I have no idea.
+
+Regardless I was able to build the first prototype of the ball and everything seems to be working from a lighting perspective! I had ChatGPT help with creating a library to communicate with the lighting controller but I’m not super happy with it currently so I almost definitely end up rewriting it.
+
+I was a bit worried about the lights and more specifically the heat from the lights but honestly it seems totally fine. I think I could get away with not needing an aluminum PCB or making it way smaller.
+
+Now it’s time to integrate the accelerometer and gyroscope.

@@ -1,0 +1,41 @@
+## Where I Think I’ll Be With The Ball For The Show
+
+Okay, so I don't think I'm going to have the ball finished for the show.
+
+And I can break down why in smaller chunks, starting with the electronics.
+
+There was an issue with my JLC order that I didn't... it seems like they messed up with the parts configuration—taking the BOM and just using the parts I included in the original BOM for the configuration and the placement of parts. I did not include any of the resistors or capacitors and instead did that in the identification on the website. So I'm back and forth trying to get this order placed and sent out, and it just does not seem like the electronics are going to come in time.
+
+And if they do, it'll be right at the last moment.
+
+And so there's no way that I'm going to have a ball ready to be done from the electronics perspective. I don't have time to get it, flash the bootloader, do the code, and then cast it into a ball if it comes on the 16th.
+
+The other thing I realized is that I messed up on the LED PCBs. They're too small, and I'm a bit worried that I used a common anode for all of the lights when it should be a common cathode. Meaning that even if they could be used—which they could—they just will not be in the right place inside the ball. They won't light up because they're not configured correctly. Now that's just the flexible board, meaning that the cores are still okay, thankfully. But for that to light up, I would have to redo those boards and put in a new order.
+
+---
+
+On the polyurethane side, I have continued to cast balls.
+
+I am 100% confident now that I'm going to move forward with the 70A hardness material.
+
+But I'm still a little bit nervous about the glue. The first glue that I bought did start to break as I was playing with the ball. I've applied more and it seems to be holding a little bit better. But also, the seam looks quite poor. 
+
+So I purchased the other glue after trying to find it for a while. In trying that glue, it seems like it has worked even less. And so I think moving forward with the first glue is the way to go, but I'm still worried about using the glue entirely. I think I will try to do a PVA test just to see if that works.
+
+But it will be a lot of work—especially if I'm thinking about doing it the 18 times for the 18 ball cores I have. And very expensive, because PVA filament is expensive.
+
+---
+
+I've also been trying to find the right amount of pigment to add.
+
+It seems like more or less the smallest amount possible. I've been just dipping the popsicle stick into the pigment and then mixing it into the B side before integrating the A side, starting at 3% of weight. And now it's probably about 1%, and it needs to be—my guess would be—0.7%. So just the smallest amount possible, really.
+
+Which is good from a pigment perspective, but bad from a reproduction perspective because it's so small that I can't even measure it on the scale, given how small my batches of material are.
+
+---
+
+I'm thinking for the show then, what I'm going to have to do is just sort of showcase an exploded view of the ball, hoping that the electronics come at least for the day of the show beginning.
+
+And then showcase the older prototypes as well as this prototype glued ball.
+
+And try to communicate the story that way.

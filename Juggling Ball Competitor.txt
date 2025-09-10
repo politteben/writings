@@ -1,0 +1,7 @@
+## Juggling Ball Competitor
+
+I bought a light up juggling ball because I was curious to see how it works and really in a round-about way it’s kinda my competition.
+
+From an electronics perspective it’s super simple, which makes sense given the price point they are selling them at. It’s a single RGB LED with a battery, button, and what is probably some sort of EEPROM and shift register to cycle through the different colors. The really interesting thing they did though was fill the ball with little plastic “beads” almost so they refract the light in a bunch of different directions, supposedly to help with diffusion. I’m not sure if I could mimic something like this for my ball.
+
+These don’t bounce though, and the electronics are molded into the outer housing, so it’s quite visible. I know that this is the right way to do it in terms of complexity, but it doesn’t look nearly as elegant, it breaks the illusion I’m going for, and at the end of the day if you toss it and it hits the ground on that contact point it won’t bounce. All those are deal breakers for me.

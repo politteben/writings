@@ -1,0 +1,37 @@
+## Movement Quotes and Solutions
+
+In this new version of the progress bar, I want to treat it a bit more like a watch in developing a movement. That way I can also more quickly iterate on the flap shape or form of it and have that be a separate piece entirely from the housing.
+
+So I redesigned the movement to get it into this shape and did it in a way that's sort of pretty and functional, sort of pulling in some of that, what I was talking about before, with beautiful and engineering and the Nagra parts of that. And I designed everything to be machined out of metal.
+
+But in trying to get that quoted, the quotes have been insane. Both in terms of time and cost—I'm looking at a production time of two and a half weeks, which I don't have anymore, and costs of two and a half thousand to get it done locally, which is just absurd. I've thought about trying to send it up to China, and I've been trying to get quotes from everywhere that I can. But nobody can do it as cheaply as I need, as quickly as I need. 
+
+---
+
+And so I was really thinking that I was going to be completely fucked on that. But I talked to Ali, and he was talking about trying to get it 3D printed. We don't have any printers here at the RCA that are of high enough quality to sort of hold the tolerancing that I'm looking for. But he suggested using one of the printers that he has in his lab in Imperial, and gave me the contact information of somebody to talk to to sort of see if that is a possibility machine-wise.
+
+And so I had a Zoom meeting with them, and we were able to figure out that, yes, it does seem possible. And he gave me some small suggestions of things I have to change to the gears themselves so that they're more 3D printable. Which is great.
+
+Ali also gave me the contact of somebody at Imperial, Milena, and said that she would be a good person to reach out to and be a point of contact to sort of help me get those printed in his lab. So I did, and we've been going back and forth trying to get these gears made.
+
+---
+
+For the main plate, the top plate, and the bottom plate, I'm having those printed here at the RCA. And I thought it would be interesting to try to do them on a clear, just so that I can highlight and showcase the whole movement. If it can't be metal, bring more attention to the gears within it.
+
+The parts from the RCA have come back and they're shit. They're going to require so much sanding. They're not fully cured, so I have to leave them out in the sun. And this is all just time I don't have. 
+
+Plus, on the gear side of things, we ran one test print and it failed, and then Imperial was out of the resin that I need. So I'm just sitting around now, waiting for more resin to come in in the hopes that we'll then have enough time to print everything and get it ready for the show. So, I mean, I guess I have the time to sand this now, but it just sucks.
+
+I've continued to talk with Milena about trying to get all these parts printed. I was told that the resin would be here Wednesday and it's Wednesday now and the resin is still not here. So I'm preparing for the worst to some extent. 
+
+I did sand all of the clear parts and left them out in the sun to fully cure, and it's sort of given them this almost like sea glass look, which is kind of interesting. It's like cloudy clear that actually looks really nice, but without the gears and everything else for the movement it doesn't make a whole lot of sense to show it all.
+
+---
+
+The resin has come in so we can now start to print everything. I did make an updated version with more tolerance between the gear teeth just in case. So we're sort of printing it—one of the four build plates prints needed—so I can look at the gears and determine if I need to use this new version or not.
+
+Test done and the gears are too tight, so we're gonna move forward with the updated gears and hoping that that will be better. Without the pins to put everything in place, I can't tell by how much, so I just guessed on the amount of offset to put between the gear teeth, and I'm hoping I guessed correctly. 
+
+I also updated all the bushings and every other part for the printers just so that they all fit together a little bit better. Before, everything was designed to be press-fit, and press-fitting plastic parts is not something I would recommend because they usually just break.
+
+So hopefully all of these parts can get printed within the next 24 hours. I can lightly sand them and they can be post-cured—which is just re-exposing them to UV light and heating them slightly—which will stiffen them up a bit more and toughen them, so it's less likely for the gear teeth to break.

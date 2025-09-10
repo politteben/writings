@@ -1,0 +1,6 @@
+## Current Ball Overview
+
+- Still unhappy with polyurethane outer. I’m worried the glue won’t hold up over time but it’s good enough to build a prototype
+- I messed up the flexible LED boards so those need to be redone -> the LEDs are common anode so I’ll have to also attach a bridge wire onto the new ones so they can be powered correctly. ==Will need to look into how thick of a wire I’ll need from a current perspective==
+- I need to figure out how I’m going to make the polyurethane rods to hold the core in and make sure it doesn’t rotate around. I’m thinking the CA glue would actually be great for this
+- I should go about trying the PVA print just because I’ve got it and I purchased more material

@@ -1,0 +1,292 @@
+# Process Journal
+**Design Products 2024/2025**<br>**Royal College of Art**<br>
+Ben Politte<br>10052625
+
+{{TOC}}
+
+===
+
+# Unit 1: Locating Practice
+## Lecture 1: Research & Literature Review
+- Research already exists out there -> Don’t feel like you have to start everything from the ground up
+- 2 Types of Research Problems:
+	- Practical
+		- Taking real world actions to eliminate or reduce (time, $, pain, lives, etc.)
+	- Conceptual
+		- Things we don’t fully understand to our liking -> Final output is a better understanding, but not action items to address
+- Structure of a problem
+	- A situation or condition
+	- Undesirable consequences due to situation
+	- Steps:
+		- Identification
+		- Discovery
+		- Definition
+	- A Good Research Question is SMART
+		- S: Specific
+		- M: Measurable
+		- A: Attainable/Achievable
+		- R: Realistic
+		- T: Time Conscious
+- A research question should clearly state what you don’t know, how you intend to find out, and why it’s important
+- Types of Sources:
+	- Primary
+		- First person account of an event or witnessing of an event
+		- No analysis of original doc
+	- Secondary
+		- Papers/documents with analysis of their data
+	- Tertiary
+		- Repository of other’s research/documentation in an area
+- Is your potential source CRAAP?
+	- C: Current
+	- R: Relevant
+	- A: Accurate
+	- A: Authority
+	- P: Purpose
+- Book Recommendation: The Craft of Research
+
+===
+
+## 7 Objects
+### Pre Tutorial
+I struggled a lot with an object that shouldn’t exist and an object that made you angry. I think this ultimately is because while I can identify objects I’m not a fan of, to say something shouldn’t exist to say that the problem it is trying to solve isn’t valid; which I don’t know is true. Ultimately the way I started shifting my thinking around it was to think about objects where the execution of solving a problem is poor, which is what led me to the travel adapter. And, in terms of angry, I don’t get angry at objects so much. Frustrated sure, but frustration is a fleeting emotion.
+
+7 Objects Brainstorm.jpg
+
+```
+A thing/object that shouldn’t exist: Travel Adapters
+There is some commentary here about how the different plugs and power standards is a system that should be standardized (think about the standardization of power on the other end with things like USB-C), but beyond the larger problem these products are attempting to solve, they are cheaply made and in some cases can prove to be a fire hazard. I personally have found that for the US plug on the output side, they do not always hold very tight so if you put a larger charger on the other end it does not want to stay connected. This, along with the general overwhelming front made the product confusing in way that I personally feel doesn’t inspire confidence.
+
+The most important object you own: Leatherman
+I struggled with this one for a bit. Specifically because of the word “important”. Because originally I started to think more down the sentimental route, but I feel like importance implies some sense of value beyond my own opinion. I also wanted to stray away from thinking about this solely in a monetary sense. Ultimately, the train of thought I ended up on is thinking about if I am going on a trip and packing, what are some of the objects that I’m ultimately drawn to wanting to bring with me, and with that I ended up on my leatherman.
+
+An object that makes you angry: Car Infotainment Systems
+They’re all bad. And for a multitude of different reasons. All-screens, the desire for data/control of the content you listen to, privacy policies...
+
+The most beautiful thing/object in the world: Ressense Type 3
+Planetary gear box, oil, deep black hides it all
+
+The most useful thing that serves a single function: Watch
+Understanding time, and the passage of time, in a way that is so accessible because it’s attached to us, is one of the most valuable things in my mind. Understanding the time provides function both retrospectively and thinking and looking into the future. It is a product that acts like a starting block for us to them internalize and build off of.
+
+One object that inspires you: Playdate
+Developed by Panic, documentation, tools for children, not trying to be anything it’s not, fun
+
+Object that best encapsulates you: Digital Camera
+Technology has pushed innovation but has maintained a sense of where it came from and hasn’t forgotten what it is. Creates something. Many different functions/modes it can fall into to get to the end product, just with different priorities. It’s a bit of an aspirational product as well.
+```
+
+### Post Tutorial
+I met with Alon this week about the objects. I wasn’t sure what to expect going into it but it was different than I expected. Alon had a lot to say about the context around the object and less about the details and specific of the object itself. Which in retrospect makes sense, but is not normally my approach when thinking about objects. I get caught in the details of the object itself that I don’t normally look up and think more broadly about the context.
+<br><br>
+In the end he recommended that everyone in our group rethink the object we feel like most represents us. His feedback at the group was that they were too general and didn’t show off any sort of individuality. With that, I just finished writing in my notebook about trying to think through a new object. Ultimately where I’ve landed is a 9V battery, and you can see my thought process through the images of my notebook:
+
+7 Objects Notebook 1.jpg
+
+7 Objects Notebook 2.jpg
+
+===
+
+## Keywords
+I met with my group yesterday to talk about our objects a bit more and get the keywords. From there, I started to cluster them together to figure out overarching 5 keywords:
+
+Keywords Synthesis 1.png
+<br>
+I’m not convinced I love the words yet though. They feel like they mostly just relate to the objects and not so much to me as a whole. There is something in there, but it doesn’t fully feel like me yet.
+<br><br>
+I wanted to extrapolate my keywords into better words for me so in my notebook I wrote down the words I came up with from the direct feedback and started to write more. Just throwing things at the page related to the idea of my keywords. I did this in my notebook and from there I copied the pages and started to highlight and draw connections on the scan looking for new things. Here’s what that looked like:
+
+Keywords Copy Finding.jpg
+<br>
+I used this to come up with my new keywords and write the definitions for them:
+<br>
+**Affordances For The Curious**
+The inner workings of how an object achieves it’s function should be hidden enough that someone who cares only about the end result should not have to think about it at all--to the extent that it is almost magic. But, for those who care about how the end result is achieved, there should be affordances in place that act as a starting block to understand what’s happening behind the curtain.
+<br><br>
+**Subtlety**
+An object should never be in your face trying to grab your attention away from something else unless absolutely necessary.
+Subtlety also means there should be explicit focus on the smaller things. Things that might not make-or-break a product, but have more to say about the perceived quality and care when designing the product.
+<br><br>
+**Physicality**
+An object should be physical-first. You can sparingly incorporate purely-digital elements, but when someone is reflecting on an object, their mind should immediately think of the physical product.
+Objects should also incorporate some sense of dynamic adaptation. Whether that be through direct manipulation or third-party factors; an object should respond to some level of “input”.
+<br><br>
+**Respect**
+<br>
+*Respect for Materials* - Respecting the inherent advantages and disadvantages of a material and not trying to mask or misuse it.
+<br>
+*Respect for Space* - Physical objects take up physical space. To respect this space is to not frivolously take up that space, and to occupy it with something that is of quality both in concept and execution.
+<br>
+*Respect for The Past* - Keeping elements from what came before in the product category shows respect for the designers before me and offers some familiarity to those who have used products in the space beforehand.
+<br>
+*Respect for Who I’m Designing For* - Understand who the stakeholders for a product are and where they rank. It is common to have an opposing opinions from different stakeholders as well as yourself. The solution is rarely to disregard the opinions of others.
+<br><br>
+**Prepared**
+I want to be prepared to tackle the thing in front of me at any moment. I don’t like finding myself in a situation of not knowing how or being incapable of doing something. This leads me to often think about tools or process improvements I want to incorporate into my design process. It also brings me hesitation when it comes to focusing too much time and specializing in a singular part of the design process.
+
+===
+
+## Keyword Associated Questions
+Writing for the A3 pages:
+<br>
+### What are the gaps in your knowledge around these keywords?
+**Affordances For The Curious**<br>
+- Execution beyond a window. The idea of providing a window into an object feels like usually the wrong way to approach this. I think the gap falls under just methods and practice in doing this in a way that is more evocative.
+- How to do this beyond just the physical design of a product. I suspect that things like providing an easy way to disassemble, manuals, and replacement parts plays into this in some ways, but it’s not something I’ve looked too much into.
+<br>**Subtlety**<br>
+- This feels like a practice thing in a lot of ways. It’s not necessarily that I have a large gap somewhere in my knowledge of how to execute this, but rather about finding the right amount. Where is the line for a product when it comes to attention? How about focusing on the small things vs. time addressing the larger problem the product is trying to solve?
+	- Is it possible with more practice that I can come up with a personal framework that is product agnostic to help with this?
+<br>**Physicality**<br>
+Methods of dynamic adaptation that do not involve electronics. In the past I have relied heavily on buttons, switches, motors, LEDs, etc. to provide movement and adaptation. I would like to have a better grasp on ways to provide this in purely-mechanical movements. Not every product I design should be a tech product.
+<br>**Respect**<br>
+- Better understanding of material handling. Both in terms of material properties and choosing the the right material for a job, as well as material mass manufacturing.
+- Design History. I ideally would like to have a better knowledge of the history of objects that I can pull from in my head.
+<br>**Prepared**<br>
+- Tools and methods
+	- Blender
+	- Grasshopper
+	- Welding
+- Learning about when & how to lean on others for help and being comfortable releasing some control during the design process.
+
+### What is it you need to know and why is it important?
+This plays into the *Prepared* keyword, but what I feel like I need to know is the exact same as the gaps in my knowledge. I don’t like there being elements of things I don’t know know how to do, and feel a push to effectively be an expert in the whole design process.
+
+That being said, here is why I find the following keywords important to me:
+<br>**Affordances For The Curious**<br>
+I grew up as someone who loved to take things apart and understand how they worked. It gave me a greater appreciation for the work that was happening behind the scenes in a product. It gave me a greater appreciation for the work that went into then hiding away the internals. And in some cases it opened my new things that I could do with the product.
+
+I hold onto those feelings very deeply, and I want to be able to provide those feelings to other with the products I work on. I want to inspire and encourage learning about something new with the products I work on.
+<br>**Subtlety**<br>
+In a lot of ways we are in an attention economy. Advertisements, products, services; they’re all trying to grab your attention and hold onto it. In a lot of ways it feels very artificial, and very gross. I understand that anything I build with have to compete and engage in this war, but I don’t want to be part of the problem.
+
+Subtlety is also important to me in the way that it provides and opportunity for someone to think more-deeply about a product. It’s tied in with *Affordances For The Curious*, as well as *Respect*, but I want to include elements that can show someone put real thought, care, and time into something. This all-of-a-sudden feels even more important than ever with the current boom of AI-based design tools.
+<br>**Respect**<br>
+Respect is important to me as I believe it shows an understanding that I am not the center of the universe, nor do I inherently know better than anyone else. Knowing this helps me with not designing in a vacuum.
+
+### How are you going to find the unknowns?
+- **Greater Study of Design History** - I want to better leverage the work and knowledge of those who have done similar work before me.
+	- Their approaches to solving problems with product design
+	- The tools and processes they use
+	- Elements or features that have become synonymous with a product category
+	- Data associated with problems in a product category
+- **Practice** - Short, non-complete projects that can allow me to specifically focus on some of the trade skills associated with design.
+- **Research Regarding After-Purchase Product Support** - This can start as desktop research into methods that companies use to provide support for an object after the transaction. I don’t mean customer support lines, but rather the affects of providing means and methods to repair and modify their product if a user wants.
+- **Researching methods, systems, or rules-of-thumb that have been developed in the past to handle things like time allocation when designing** - How can I leverage these as a building block when defining the time & resource allocation that works best for me?
+
+### Who is being impacted by this?
+This obviously changes depending on what the product I am working on is. But the through-line that I find myself naturally wanting to design for are the people who deeply care about the product category I am working within. These are generally the people with a lot of background knowledge or experience in the category. They usually have fairly strong opinions about the category as well. But on top of that they are also able to compare products within the category. To me, a coffee maker is a coffee maker is a coffee maker, but that is an absurd statement to some others. And it’s those others that I find myself naturally wanting to design for.
+
+Adjacent to that, I also find myself wanting to encourage people to becomes these types of people if they aren’t already. This really is where *Affordances For The Curious* comes into my work.
+
+===
+
+## Keywords Presentation Feedback
+I had Ali this week and overall I think it went really well. I feel like I communicated what I wanted to and yeah really I’m quite happy with it. The part of work that inspires me was definitely rushed a bit, but we didn’t talk too much about that part to be honest.
+
+===
+
+## Finding Design Opportunities
+I don’t know what my opportunities are. I’m struggling with figuring this out because ultimately the things that bubble to mind are rooted in me and my opinions, which isn’t how I should be designing. I would rather be starting with a user group and learning about that group specifically to then understand the problems they might face and design potential solutions with them. But anyway, here is my trying to figure out what to present with my next tutor:
+
+Process Journal Scans Opportunitites 1.jpg
+Process Journal Scans Opportunitites 2.jpg
+Process Journal Scans Opportunitites 3.jpg
+
+===
+
+## Observational Research
+You can see my notes in the bottom left of the image from the previous section. I’ve found that when doing research where you’re talking to someone--which we ultimately did a fair bit despite the idea being to just observe--the fewer notes you can take right away the better. This does require a quick debrief after. I would normally audio record the debrief, but I got the impression that would be somewhat frowned upon by the tutors. After that we worked on our map which you can see in this photo:
+
+Observational Research Map.jpeg
+<br>
+I can’t say I feel like we did a great job with this but I think that has to do with our circumstances a bit. We choose an area that wasn’t very trafficked which is challenging given the time constraint. Also, I find that I normally during observational research start with the human/user and work my way out from there in observing the environment. It’s probably a bit too linear, but I don’t know what aspects of the environment I should be noting and pulling from if there isn’t someone accustom to that space that I can observe. This also lets me frame things in the space they’re conscious of and not conscious of... It was still good though, don’t get me wrong, it just didn’t feel as valuable as it could have.
+
+===
+
+## Still Trying To Find Opportunities
+I’m not loving any of the opportunities anymore than I did before, so I started trying to do something similar to what I did with the keywords: just write down things I’m curious about and then look for something deeper. Or in this case more removed from me. Here’s that page:
+
+Opportuities A3 Sheet Brainstorm.jpg
+<br>
+I don’t know if it’s helped because I still don’t feel like I have much here.
+<br><br>///<br><br>
+I talked with Sophia today and that helped a lot. I feel like the idea of confidence when it comes to repairability of electronics is something I am passionate about and a space I can work in. Now I need to find 4 more...
+<br><br>///<br><br>
+I’ve gone around and talked to more people now and I feel like I’m at a place where I have a few I like and some I think are interesting but I’m not convinced are just right yet. Here’s where I’ve landed:
+- Perceptions of Objects Based On Manufacturing Method and Execution
+- Learning/Experiencing the History of a Technology or Mechanism Physically
+- Beginner Film Making
+- Social Active Listening
+- Confidence in Repairability of Electronics
+
+Self Assessment and Peer Review Report.txt
+
+# Unit 2
+
+Unit 2 Process Journal-0.jpeg
+Unit 2 Process Journal-1.jpeg
+Unit 2 Process Journal-2.jpeg
+Unit 2 Process Journal-3.jpeg
+Unit 2 Process Journal-4.jpeg
+Unit 2 Process Journal-5.jpeg
+Unit 2 Process Journal-6.jpeg
+Unit 2 Process Journal-7.jpeg
+Unit 2 Process Journal-8.jpeg
+Unit 2 Process Journal-9.jpeg
+Unit 2 Process Journal-10.jpeg
+Unit 2 Process Journal-11.jpeg
+Unit 2 Process Journal-12.jpeg
+Unit 2 Process Journal-13.jpeg
+Unit 2 Process Journal-14.jpeg
+Unit 2 Process Journal-15.jpeg
+Unit 2 Process Journal-16.jpeg
+Unit 2 Process Journal-17.jpeg
+Unit 2 Process Journal-18.jpeg
+
+---
+
+Unit 2 Summative-0.jpeg
+Unit 2 Summative-1.jpeg
+Unit 2 Summative-2.jpeg
+Unit 2 Summative-3.jpeg
+Unit 2 Summative-4.jpeg
+Unit 2 Summative-5.jpeg
+Unit 2 Summative-6.jpeg
+Unit 2 Summative-7.jpeg
+Unit 2 Summative-8.jpeg
+Unit 2 Summative-9.jpeg
+
+# Unit 3
+Update - March 3rd.txt
+
+Update - April 7th.txt
+
+Unit 3 Peer Review Summary.txt
+
+Objectives.txt
+
+# Unit 4
+Rethinking Unit 3.txt
+
+First Ball Prototype.txt
+
+Machining Acetal at the RCA.txt
+
+Plastic Spring Indexing.txt
+
+Progress Bar v4 Overview.txt
+
+Juggling Ball Competitor.txt
+
+Rethinking Ball Internals.txt
+
+Defining Progress Bar Form.txt
+
+Making a Ball Mold.txt
+
+Where I Think I’ll Be With The Ball For The Show.txt
+
+Movement Quotes and Solutions.txt
+
+Current Progress Bar Overview.txt
+
+Current Ball Overview.txt

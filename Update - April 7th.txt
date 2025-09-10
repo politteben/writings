@@ -1,0 +1,185 @@
+## Update - April 14th
+
+A lot has changed since my last real update in here. The last time I took a proper swing at journaling my thoughts it was to find the wording and scope of my project: what was it I actually wanted to do and how was I going to do it.
+
+That was helpful. I was able to synthesis this idea of intrinsically-motivated goal reminding. What I found the more I talked about it and the more I read however, is that I was missing a crucial step of the process—reflection. Without encouraging reflection, my project becomes a toy. Productivity porn as Merlin would put it.
+
+It’s a balancing act though because realistically I don’t want the product to tell you how you live your life. If you don’t want to live that way, you’ll just bounce off of it, and marginal improvement over what you’re doing now has infinitely more potential than continuing what you’re already doing. I struggled with this for a while—asking for feedback in my peer reviews and talking with Spyros about this—but never arrived at a solution I was happy with.
+
+<br>
+
+On the first day I arrived on campus here, I made a list. This was before I had met any of the tutors, before I knew where anything once, even before I had my badge. But I sat in the lounge area on the ground floor of the Dyson building, pulled out my pocket notebook, and made a list. This list consisted of 4 things, each being a goal I wanted to set to myself. My thinking was that before I knew really anything about the program or projects I was working on, I wanted to write down my goals for the program—the things that regardless of curriculum I wanted to do. My list was as follows:
+
+1. Learn Blender enough to create animations and renders with at least comparable quality to that which I can make with Keyshot
+2. Become confident enough in physical sketching that it becomes a necessary part of my process
+3. Learn about design for manufacturing—how do you design a product and not a concept?
+4. Practice networking -> maybe look for something of a mentor?
+
+I’ve known for a long while now that I’m going to fail at all of these. If I’m allowed to indulge myself for a second, I knew I was going to fail the second I realized that this program is essentially entirely self-led and revolving solely around one project. I hate myself and my work when left to my own devices. I become lazy, complacent, and somehow even more adverse to change. I improve through competition. Not necessarily because I feel the need to be the best, but because I feel the pressure to be in top ten percent. I can point to a countless number of stories and reasons in my life that would probably explain this, but the truth is that that fear of being in the bottom 90% is really my only motivator. Without that, I’m just a has-been who talks a big game and produces nothing because the one thing I can’t turn off is the knowledge that what I’m producing is shit.
+
+I don’t think I’m going to be able to turn that around—especially not 1 or 2, I’m fucked on both of those—but I was reminded of my list when walking around Hooke Park last week. Students there are still building concepts; what they create is not going to be reproduced elsewhere without modification, but they have unequivocally moved beyond models. They’ve taken a step further into the actual development process.
+
+*Real designers ship*
+
+I want to design something that could actually be real. Because quite frankly I have no idea how. I’ve always worked so early in the design process that I know nothing of the later bits. That’s why I wrote bullet point three, and that’s something that I want to change. I want that more than my IRP. So I talked with Spyros about the hypothetical of me changing my project around to be different.
+
+Here’s what I wrote to myself on the bus ride home from Hooke Park:
+
+Update-Mar31.txt
+
+<br>
+
+So without further ado Ben, here’s an update on my projects:
+
+### Progress Bar
+We’ll start with the project I probably have the most to write about. We’re gonna do some inside baseball for a second and write a quick outline of things I want to make sure I talk about:
+
+- ~~Conversation w/ Spyros about context~~
+- ~~Capturing Use Cases~~
+- ~~Making More, Making Better~~
+- ~~Interface Method~~
+- ~~What’s Next~~
+
+<br>
+
+#### Conversation With Spyros
+I met with Spyros the other day (a couple of days before Hooke Park) to talk about the progress bar and my IRP. At this time I was still progressing with the idea that the progress bar was a research tool for me to understand if the core idea of my IRP had any legs. I wanted to talk with Spyros though to discuss the quality of the prototype. I approached the conversation with the notion that for my prototype to be effective, it needed to be more satisfying to use. Not in features or function, but in execution being fully 3D printed. I believed—and it many ways still do—that the only way the progress bar has any chance of being successful is if it feels nice to actually turn the knob. So to collect data that looks at things like use/bounce rate, the actual interaction needs to feel better.
+
+The response I received was two-fold. Spyros first responded saying I need a better sense of what the context-of-use is for the IRP. He brought up some suggestions like trying to quit smoking, and we discussed things like longer habit building like trying to run consistently. His intention being that so much of the IRP has to change depending on context-of-use, so there’s no good way to design something for all of them.
+
+I agree to this to some extent, but I think we have to acknowledge that potential value in the ambiguity. My personal dream would be to design something that maybe isn’t perfect for a specific context, but is ambiguous enough that the user can assign the context they need for the product. By creating something that is just a ‘progress bar’, you can track progress of whatever you want. The ambiguity absolutely makes the reflection side of this way more challenging, but I guess to some extent I’m moving forward with the belief that someone who buys the thing wants to reflect in the first place, because they made the choice to buy it. Is this flawed logic; yes, absolutely. In many, many ways. But I’m working on that!
+
+That second notion was an observation that, while no longer fully relevant, is an import thing to remember: **The goal with a research prototype is not to make the absolute best physical thing, but to make the prototype that strikes the right balance of time, relevance, and quality for the project at hand.** He was making the case that I’m too invested in the progress bar and am holding onto it too tight. Trying to make it too perfect before releasing it to the world, and that is in turn a detriment to the project. And quite frankly, he’s probably right about that as well.
+
+<br>
+
+#### Capturing Use Case
+So! What are we going to do with all that? Now too that our project has more-or-less become about the progress bar specifically?
+
+I’ve got to get rid of the progress bar I have. I need to give it to someone to use. ==Really I need to give it many people.== One of the things I’ve noticed when I’ve shown it to people in the studio is that a lot of people come up with different ways they could see themselves using it. Some have suggestions of things they would change along with it to make it better for that task. What I think I need to do now is figure out a way to capture those different potential use cases. This involves giving people the product to use without really proving any background. Give it to them, let them use it for a week, and then come back to them and ask:
+
+- What did they use it for / try to use it for?
+	- If they didn’t stick with it, what about it made them bounce?
+- How could the object be redesigned to better fit their use case?
+- Where would such an object live in their lives?
+- Is there anything about the object they don’t understand?
+
+During that time, there’s still work I can be doing with improving the mechanism, but the hope is that this time will help me cater the design a bit and think about it in new contexts.
+
+<br>
+
+#### Making More, Making Better
+This does mean that I need to make more of them though. And if I’m making more, I am going to try to make them work a bit better than the current one. Which, yes did mean completely redoing the CAD, but I’m hopeful this new version that I’m working on will be a lot smoother. The big thing really is that I’ve moved to machining the housing out of acetal, which should hopefully reduce the friction on the gears and I can hold a higher tolerance on the posts for the gears. I’ve also bought a smooth build plate for the printer to make the bottoms of the gears smooth as well. I did accidentally make it larger, which funny I was actually trying to make it smaller, but for the prototype it should be fine. I did try to add some semblance of design to this version as well, and given that I’m making 3 new ones to give to people, this also means that I’m going to make them all slightly different to see how they look.
+
+I think these 3 are going to be my functional versions, but I need to start thinking about prototyping form with non-functional versions to speed it all up. I tested this out printing one of my versions (waves on the top that match the current knob) in place just so I had something to look at, but I want to prototype faster than that because that still requires a CAD model. **This is where sketching needs and polystyrene modeling need to come in.**
+
+> I will begin this once the 3 current versions are made. My free time while trying to make them should be on finding people to give them to.
+
+<br>
+
+#### Interface Method
+Right now I’m still using the knob for moving the flaps. Here’s the thing: the knob allows you undo, and I’ve come to think that that’s valuable. With the knob, if you complete something, only to find out there was more to do, you can un-flip it by moving the knob in the opposite direction. With how I’ve been thinking about the button, I have no idea how to do that without adding essentially a clutch so you can toggle between filling or un-filling. But that adds so much complexity to something I arguably already need to simplify. A button is going to add complexity no matter what though because how the hell do you reset it so you don’t have to press the button a ton of times?!
+
+I really do believe that pressing a button is a better interaction than turning a knob, but it’s so much harder. So many more parts. And I have no clue right now whether that’s worth it or not to delve deep into.
+
+I did do some brief exploration; looking at using an advancing pin mechanism similar to a pen for the button and a snail or heart cam for the reset, but anything I quickly prototyped was shit because of printing quality. I’ve also made it significantly harder on myself because I really want all the movement of the button to be on the down-stroke. This adds so much complexity. But if I can pull it off I think would really help with the feel of the project.
+
+There’s certainly more to do here, and I hope I have the time to look into it, but this ultimately has to fall low on my priority list I think.
+
+<br>
+
+#### What’s Next
+Ben, please use this as a guide of what you need to be working on right now for this project. I’ll do my best to put these in level of priority as well. **Don’t skip around! Go in order for my sanity.**
+
+- [ ] Quickly CAD up the pen-holder window -> put a slot in the window
+- [ ] Complete DXF outlines for additional pieces to be made
+- [ ] Start the 3D printing!
+- [ ] Clean up your questions for the research--make an outline
+- [ ] Find people outside of the RCA to give it to. ==I want them to be accounted for before they’re done being made==
+- [ ] While they’re gone, start sketching different forms
+
+That’s enough for now, but there are more lists below!
+
+<br>
+
+### Ball
+As far as I’m aware I’ve not really ever written about this one. One of the things Rob mentioned during the EC lecture is that it’s really valuable to describe what you’re doing in 100 words, so I guess this is my attempt at that:
+
+A ball is an inherently playful object, especially a ball with a good bounce. I wanted to set out a try to create a ball that reflected that sense of play and responds to it. I’m working on designing a bouncy ball, roughly tennis ball sized, that when moving begins to glow. Then, when set down and is stationary, the glow slowly dissipates until it’s no longer lit. My focus is on hiding how it works as much as possible to make it feel like the ball itself is alive--not a soft enclosure for a tech-filled core.
+
+So yeah, that’s the project! The one thing I wasn’t really able to mention in there is the future plan of the base. The ball on it’s own I think is a really interesting project that has value as a standalone thing, but there’s a secondary direction that I’d love to take with it, although I know I won’t have time within this program to do so. I’m obsessed with this idea of a kinetic lamp; essentially a base for the ball that tosses it up into the air, catches it, and continuously does so. That tossing motion would keep the ball lit, and this could light up your space. Plus, because of the limited battery life (I’m shooting for 1-1.5 hours) the ball will get tired and eventually want to take a break, which I think is really beautiful. To turn the lamp off, all you have to do is grab the ball out of the air on one of the tosses, and put it down. This will hopefully happen one day, but the ball seems like enough of a challenge on its own.
+
+Right, outline time of what I want to talk about:
+
+- ~~Current Cross Section~~
+- ~~PCB Design~~
+- ~~Material Choice~~
+- ~~Animation~~
+- ~~Talking With Freddy~~
+- ~~What’s Next~~
+
+<br>
+
+#### Current Cross Section
+This has undergone a couple of different versions, but the current one I’m running with I think is the most promising. Currently the ball isn’t solid (although this can change). There is a 4mm outer layer of rubber that will be the actual bouncy ball part of it. Encased within the rubber is the core. The core is a dodecahedron frame locating a PCB with a central LED on each of the 12 faces. The theory right now is that having 12 LEDs equally distributed inside the ball should be enough with the diffusion of the rubber that the ball is evenly lit. I’m working on testing this, but that’ll be covered in the ‘Current Testing’ section. Inside the core will be definitely be the battery, and potentially the main PCB, but I’m trying to shrink that down small enough that I would fit as one of the dodecahedron sides. The battery I’ve chosen is a 16340. This might change to a pouch cell though, but I chose the 16340 initially because it’s a little more protected than a pouch cell, and I thought I might be able to better balance the ball that way (although in retrospect I doubt it will be any easier).
+
+Other than the battery, the inside core will be hollow. My theory is that the more solid the ball, the less deformation and therefore the less bounce. I am worried about the structural stability of the core and the PCBs because I can’t control how hard someone might throw this, but with how I’ve currently designed it I don’t think it would be hard to make it solid.
+
+One final note, as of right now the ball will have a USB-C port on it to charge the battery. I would obviously love to make an induction charger to wirelessly charge the thing, but there’s no way I’m going to be able to make that work quickly and it’s quite low on my priority list for the project right now.
+
+<br>
+
+#### PCB Design
+This has been the predominant time sink for the project currently. I’ve designed a custom PCB that is currently in the shape of a dev board, meaning it won’t fit inside the ball. The board is based off the Adafruit Feather M0, but I changed it to be USB-C, added the lighting controller, and added a 6-DOF IMU. I’ve realized now that programming the board is going to be an absolute nightmare because I forgot to include the ICSP pins. Everything is accessible, so I should be able to solder some leads to get it done, but we’ll see.
+
+This is my first time really designing a board from scratch, which is exciting. I’ve learned a lot along the way, but I’m also consciously aware of how little I know. The bright side really is that I think I’m close to a place where I know enough to do simple things like this, and hopefully know enough to have a conversation with someone who can help me further. I suspect I might run into this in this project of needing to ask for help from an EE and probably someone better at programming than me, but we’ll see.
+
+The LED selection has been a bit of a nightmare. I’m taking a shot in the dark in terms of power, how many LEDs, and the heat they may or may not put off. I’ve probably gone a bit overkill by using aluminum PCBs for every face, but this might add some structure as well which would be nice. Currently running with 600mAh LEDs at 4000k.
+
+<br>
+
+#### Material Choice
+Surprising it’s hard to figure out what type of rubber bouncy balls are made of. It seems even harder still to figure out what shore hardness I should be shooting for. I met with Future Materials to have a chat about it and from my Googling and their conversation here’s what I’m thinking right now:
+
+I’m thinking the material is a polyurethane. Shooting right now for an 80A hardness. Future materials has some samples from Smooth-On of different polyurethanes and there’s one that seems promising although it’s a bit hard to tell because it’s thicker than the wall thickness of the ball. After the Easter break I’m going to start the process of testing different wall thicknesses and hardnesses to see how they affect the bounce as well as light diffusion. I’m hoping to find a polyurethane that is cloudy and white so that I can also play with adding pigments to it.
+
+The running method currently is to make two hemisphere molds and bring them together during the curing process. This will allow me to put the core inside and mate the two half around it so it’s fully encased. It’s looking like it’s going to be a silicone mold with jesmonite to give it some structure, which will be cool because I’ve never made a 2-part mold before.
+
+I’ve got another method for testing the hardness, but I’ll cover that below when talking about my conversation with Freddy.
+
+<br>
+
+#### Animation
+This is one of those times where early on I knew I was going to over-engineer the prototype for one purpose: playing with animations. Six degrees of freedom sensing is definitely overkill for this project as I realistically could have just gotten away with measuring acceleration. But by measuring all of this, as well as being able to individually control the brightness of every LED, there’s real potential for more interesting interactions.
+
+The example I’ve been using is this idea of rolling the ball and having just the underside glowing. Practical, probably not, but it easily gets the point across. I’m making 5 different dev balls right now, so what I would love to do is to give them to different people who can code and ask them if they’d be interested in prototyping some sort of lighting interaction. I got this idea from an old Matt Parker in which he ran an LED strip around his Christmas tree and he accepted submissions from his patreon patrons of different lighting code. I see this as an opportunity for me to understand how other people might perceive the ball.
+
+In an infinite timeline, I’d love to build a Unreal or Unity app that would allow you to simulate the ball and the code, but where I’m standing right now I really don’t know how I’d do that. Maybe something to look into (low on the priority list).
+
+<br>
+
+#### Talking With Freddy
+I had a conversation with Freddy about my ball a couple of weeks ago. He seemed interested in the project which is nice validation, but I think he’s more interested in the kinetic lamp than the ball as a stand-alone thing. Which is fine!
+
+One of the things he recommended looking into was this idea of 3D printing the ball at different hardnesses, and combining the outer with the core frame. If this works I think it could be a huge time save. That being said, I’m not sure I could implement this for the final product because I don’t think the material will diffuse the light through it. To try it though, I was able to find two different companies, one that could make the halves in 80A and the other at 90A, and order from them to at least have some balls to test with.
+
+Freddy’s idea for the base was to use linear actuators and essentially control the bounce of the ball. Which is really beautiful, but I’m thinking might not give me enough height, and has the potential to be loud having the ball actually bounce on a hard surface every time. My running idea is essentially to pull a fabric taught to force the ball up and then catch it in the fabric, but we’ll cross that bridge when we get there.
+
+<br>
+
+#### What’s Next
+This is going to be a list, but it’s a round up of what I am hoping to test when all my stuff actually gets here:
+
+- Material Hardness -> Looking at 3D prints as well as samples from Future Material to guess what material hardness I need
+- Material Thickness -> Working with Future Materials to make some balls at different wall thicknesses and see what bounces best
+- Figure out how the flash the boot loader onto the board -> Does the SAMD21 Arduino Core work or will I have to the use the Feather core?
+- With the 3D prints, test if the PCBs in the core will get dislodged when bouncing around
+- Build and print a stand for the board and the core
+- **Double Check Cable Pins to not wire the LED backwards!!**
+
+### Furniture Item?
+This is the ambiguous one that I’m probably not going to have time for but would really like. It would fall outside of the scope of my IRP of designing for manufacturing and scale, but I think showcasing some furniture design as well as the above projects would showcase a well-rounded designer.
+
+I don’t want this to be my bench. That being said, I do want to finish the bench. I showed it at the WIP show which was good because it put it in my mind again. I had more-or-less put it on the shelf and forgotten about it so to see it again lit a fire under my ass to get it done.
+
+Even if you don’t build it Ben, design a chair while you’re here. I think it could be beneficial.

@@ -1,0 +1,11 @@
+## Rethinking Ball Internals
+
+Here’s the thing about a bouncy ball: for it to work well the ball needs to compress. And to compress, it kinda needs to hollow. That’s obviously not a rule, but there’s a reason that every bouncy ball I’ve cut in half isn’t solid if it’s of any reasonable size (similar to that of which I’m trying to make my ball).
+
+This means I need to rethink how I’m going to do the electronics though. I’m gonna have to develop a core that lights up and is suspended in the center somehow. I was looking for reference and I wound up finding this World Cup ball that has an electronic core for capturing data that is suspended with rope in the center of the ball. This is a lot easier in a soccer ball because they’re larger and are assembled in panels so inserting something inside isn’t too challenging.
+
+Developing a core will also be challenging from a light perspective. I like the idea of having equally distributed lights all around the ball so I can experiment with programming different animations, but how am I going to accomplish that now?
+
+---
+
+I’ve redesigned the internals to be small. Really small. I’m shooting for a little core with 2 flexible LED boards that come off of it so that you can wrap the core in LEDs. It took a bit but everything is ready to be ordered. I wanted to get a round pouch cell battery but the company I reached out to never got back to me so I ended up with a rectangular one, and it’s something like 650mAh so I’m hoping that will last long enough... we’ll see. It does mean that the core isn’t spherical so the LEDs are gonna have to be on the top and bottom of the core which might ruin the lighting, but I’m running out of time quickly so I’m just gonna have to send it.

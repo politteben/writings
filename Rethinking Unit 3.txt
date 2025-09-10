@@ -1,0 +1,53 @@
+## Rethinking Unit 3
+
+I got a pass subject to change for Unit 3, and right as I’m heading off onto the DP camping trip which isn’t how I want to start this weekend. I guess I just don’t really know what to do. I know that my project is different in how I’m trying to approach it, but my feedback from Christina included saying that the title of my project was the part that made the most sense. What am I supposed to do with that? I’ll reach out to her after this trip to try to get everything in order.
+
+---
+
+Had a (zoom) meeting with Christina and it didn’t go the way I wanted it to. I get the impression that Christina wants me to do 2 things:
+
+- Drop one of my projects and solely focus on one of them
+- Alter the project to be entirely about material exploration and create/document different materials and processes and how they alter the effectiveness of the product
+
+Doing that feels so far removed from what my personal goal for the project is though. Because the final deliverable no longer is a final product, instead it’s presentation or book about manufacturing with a product as the example part. And to do that well it wouldn’t be about making something like the progress bar with a bunch of pieces that should be produced in different ways, but instead a single-part object like tongs or a fork.
+
+I’m gonna have to sit and think on this one a bit longer.
+
+---
+
+Email to Christina:
+> Hi Christina,
+
+> I’ve been thinking about what we discussed the other day and I wanted to run this new idea for my project by you before completely rewriting the brief. The general idea is focusing solely on the ball and its greater purpose of the kinetic lamp. My time over this next 2.5 months would be spent two-fold: first continuing work on refining the current ball prototype. The goal with that to making it as great of a prototype as possible within the time. The other part of the project would be looking at the kinetic lamp aspect by doing some experimentation and prototyping of different interaction methods for this lamp, and having a conversation with people to refine that idea of how someone might interact with this kinetic lamp. The outcome of this wouldn’t be a finished lamp, but a high-quality ball and a user-backed story of what the lamp should be with some supporting images/videos/rough prototypes.
+
+> We can talk about this more, but if this seemingly makes sense then I will start working on a new project brief.
+
+> Thanks,
+> Ben
+
+Response (Highlighted By Me):
+> Hi Ben,
+
+> Thanks for the update. I'm still unclear from your description what the purpose of your design will be.  ==What is it intended to do and how will you confirm that you have achieved your goal?==   You mention refining the ball prototype to make it as 'great' as it can be by the end of the IRP.  But what is great and how will you show that?  Why is it important to make those improvements.  For the kinetic lamp, the idea of exploring different interaction methods is clearer.  ==But what is the purpose of this exploration?==  Will it improve lamp interaction in some way, demonstrate a novel method of product interaction or something else?  The issue again here is what was the design goal/need and how will you show that the product meets it?
+
+> To have an effective project (and ultimately pass the IRP) you will need to demonstrate that you have been able to define an appropriate problem, research it in order to identify the different variables involved in designing for that problem, and then show that the design that you create to address it either does or does not achieve the intended design goals through a valid application of testing and measurement.
+
+> The purpose of the design and goals that you want to achieve through the design can be a lot of things based on what you have investigated over the year.  But they do have to be well defined so that you can show both that you have been able to frame and describe a design issue and then apply an appropriate approach to confirm if you have achieved the intended objective.
+
+> Best,
+> Christina
+
+Reply:
+> I don’t know how I would go about measuring the effectiveness of products like this. There are two things I find really interesting and intriguing about the products I originally proposed. The first is the idea of an object that reflects “work” being put on it. Add some force to the ball, it reflects that by lighting up relative to the force implied upon it. Move a dial and the progress bar flap will turn and hold this new state. The second interesting thing to me is this sense of challenging how we interact with normal products in our lives. Rather than flipping a switch all you have to do is catch the ball out of the air and set it down. Crossing something off a list or clicking a button on the computer isn’t the only way to update a to-do list.
+
+> I see both of these as proposals and explorations into these two concepts I find really interesting to think within. And I want to refine them as much as possible because I think that story of what I’m trying to do becomes stronger the more refined the interaction becomes. For example a 3D printed version of the progress bar is great to showcase the actual movement, but from a feeling perspective it’s not yet good enough to give to someone and get feedback on, and if I’m prosing a new method of interaction I would argue that the feeling of said interaction is the most important factor to work on.
+
+> In this time frame I agree with you that it feels truly untenable to continue development of these products as well as test & validate them. And the more my focus within this time moves to testing and validating, the greater my fear of finishing this program with a product that does not live up to my self-imposed standard of quality.
+
+> I’m still quite lost as to what to do from here.
+
+---
+
+I’ve been going back and forth a bit more and I think I have something. I don’t love it, but I’m hoping it’ll pass. Here’s my updated brief:
+
+Tactile Tools for Thought Affective Interaction in the Workspace.txt

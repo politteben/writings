@@ -1,0 +1,35 @@
+## Defining Progress Bar Form
+
+I've been doing some sketching of different forms and shapes for the progress bar. I printed off a probably about 70% scale model of the current version, and that size is just way better. But also, I want something that doesn't just feel like a rectangle with little flaps sticking up out of it.
+
+Sketching is something that I've been wanting to obviously improve, but I just have not been spending the time on it. So having this as an opportunity to sort of sketch and think about form has been good—I hope.
+
+---
+
+Looking through some of these early concept sketches, I am trying to figure out how to add some level of interest to the front shape of it. I think looking at things that are slightly asymmetrical creates a form that's far more interesting and makes it seem just a little bit different. But also, I've been looking at a lot of products from the 60s, the 70s, and trying to identify elements within them that I find interesting, as well as taking inspiration from things like Nagra tape recorders.
+
+But those two directions are a little at odds with each other. One of them is almost soft, bubbly, and bright—whereas something like a Nagra has a very 'beauty in engineering' sort of approach to things. I'm kind of looking to strike a balance between those two things. It lives on a desk, so it should be alive, lively, bright, fun—but it's an instrument to some extent. It's an instrument toy, and I want to highlight that. I want to champion that and acknowledge it.
+
+Something else I've realized in my sketching is that it would be really interesting to look at shapes that don't have the flaps as well. I have the opportunity to redefine the mechanism right now, which could mean looking at things that don't do the same flipping motion in the same way that I have it. You could create a flat front face, which starts to make it look more like a clock. And given the sort of context of time that this product plays with, I think that could be an interesting direction to look into.
+
+---
+
+Recently, however, I just drew a form thinking about this idea of needing a notebook rather than having to write on the flaps. I think it produces a product that's far more elegant in shape—because whiteboards inherently look awful. One of the things I recently drew was this floating notebook holder that sort of extends out past the product from a piece of stamped metal that also acts as a pen tray. It's really interesting, and it's something that I want to move into CAD and start to play with a little bit.
+
+I've been playing around with the shape—the floating pen, the floating notebook holder—in CAD. And I have four different concepts of it that I think are interesting. I think it elevates the product by giving it some shape, and you have this ability to put something other than just a notebook there. You can put a phone there if you keep your notes more on your phone, or even sticky notes.
+
+---
+
+I just met with Christina for my tutorial, and she was less receptive to the idea of the notebook holder. She was more suggesting either having writing on the flaps and trying to figure out a way to make that look nice, or looking at a dedicated paper or a dedicated notebook that sits next to or is integrated into the product. Which is interesting, but I just don't know how to do it well.
+
+I have some concern that the more I design this product to be something with a dedicated notebook or piece of paper, the more I'm asking the user to accommodate how they work. When I set out to start this, I wanted it to be something that conforms to you in the way that you work—not something that you have to integrate into your life and sort of rejigger how you work. By giving them a notebook that they have to use—with custom paper, custom sizes, or a special notebook—that goes against this core goal I had for the product.
+
+So I'm not sure how to move forward with that yet.
+
+Plus, I've been talking to Luca and other people, and some people like a naked flap without any writing on it. The more I try to change it so that it can be something to write on—without just using a whiteboard flat surface—the more it feels like you're obligated to write on it, because the form is conforming to that idea. For example, if you create a flap with a slot to insert a piece of paper, without that paper it looks empty.
+
+---
+
+Recently with my CAD work, I've been exploring this idea of cutting away rather than building up. I think in a lot of ways we tend to think in a very additive way, or at least I do, in terms of how I'm building forms. You start with a base shape, and you add this onto it, then you add another element to that, to get to your final shape. But I wanted to flip that—start with a base—and then begin cutting away elements from it.
+
+I remember seeing this radio in one of my reference images—I'll try to refine it so I can insert the image here—but it's a green radio, and then there's this big, lofted cut into the form to reveal a black flat face. It really accentuates the fact that you have this larger primitive and that parts of it have been carved out. I'm trying to do something similar with the progress bar and the pen tray. I want to leave the pen tray because it's a desk item, and it feels like it should have that function.

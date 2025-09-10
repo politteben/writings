@@ -1,0 +1,50 @@
+## Update - March 3rd
+
+Right now it feels like there are two directions the project could head: trying to develop a new system or way of thinking about how we think about tasks, or really not trying to address that at all and instead just create something that assumes you know what you want to do. It’s almost like trying to decide how much I want to hit people over the head with the idea of “productivity”. Right now though, I think I’m leaning towards as little as possible.
+
+I was explaining the idea of the progress bar to my mother the other day and she related it to the activity rings on the Apple Watch; a visual indication of your physical activity within the day. And I have some mixed feelings about that to be honest. There’s some truth in the parallel seeing as how the idea of a progress bar on an electric device was my initial inspiration. But the part that scares me is the idea of “closing your rings.”  With something like physical activity, the goal is going to be the same day-after-day. But what we want to do in a day can change dramatically. So how does the device accommodate that? Also, your rings inspire you to do more--not only to get to 100% but to shoot for 150%, 200%, as much as you can--and I don’t think I want my device to do that. *It’s not about pushing you to do more, but about reminding you what you wanted to do in a day.* Those feel so incredibly different to me.
+
+In a way, it’s less about looking specifically how productive someone is by the tasks they get done or how much they output, and more about follow-through on the things someone decided they want to do. How can you do that? Limiting distractions, reminding, and reflection feel like the most effective ways to do so. Now, I’m somewhat intentionally leaving out the very real fourth method: setting realistic expectations, but only because that feels like I’d be dipping into the “designing an involved system” too much. 
+
+At some point I have to address who this is for (that time was about a month ago, but I’m a great procrastinator). It’s not for everyone. It can’t be. I’m worried it’s ultimately for the geeks though. On 43folders, Merlin has a list of why he thinks geeks would enjoy GTD:
+
+>  - geeks are often disorganized or have a twisted skein of attention-deficit issues
+>  - geeks love assessing, classifying, and defining the objects in their world
+>  - geeks crave actionable items and roll their eyes at “mission statements” and lofty management patois
+>  - geeks like things that work with technology-agnostic and lofi tools
+>  - geeks like frameworks but tend to ignore rules
+>  - geeks are unusually open to change (if it can be demonstrated to work better than what they’re currently using)
+>  - geeks like fixing things on their own terms
+>  - geeks have too many projects and lots and lots of stuff
+
+This lists feels like who I want to design for though. It’s for geeks, and the geek-adjacent. I’ve been searching the internet for a definition of geek that I can point to but I haven’t yet been able to find anything I’ve loved, but [this article by Amber Bird](https://www.amberbird.com/blog/2015/04/26/not-ashamed-geek-and-nerd/) is the best definition I have found so far. They say:
+
+> **Geek:** An enthusiast of a particular topic or field. Geeks are *collection* oriented, gathering facts and mementos related to their subject of interest. They are obsessed with the newest, coolest, trendiest things that their subject has to offer.
+
+> ...geeks are motivated by love of a thing or topic (which might lead to wanting knowledge about it but isn’t the same as being motivated by love of knowledge)...
+
+This feels right to me, but still maybe needs to be defined just a tad more? Geek still feels quite broad in a modern context. I think I can narrow it a bit by talking about some companies that I feel like are targeting the same type of geek as I am, and can then try to refine my definition a bit more. Here are the companies and things that come to mind:
+
+1. Cortex Brand
+2. Studio Neat
+3. Grovemade
+4. Mechanical Keyboard Builders
+5. Pakt
+6. Peak Design
+
+I mentioned above being worried about this being my target user. This is because I know I fit this demographic. I’m a geek. I love the companies I listed above. I feel seen by Merlin and Amber. Have I come to this conclusion about target user because it’s a group I fit within? And if I move forward, how can I ensure I’m not designing the object just for me?
+
+---
+
+I think this product is a **want** way more than it will ever be a **need**. Because it really isn’t *needed*. If I’m trying to answer *”Why can't their needs be met adequately today with existing designs?”* my honest answer would have to be that that their needs can in-fact be met adequately today. I don’t see my project being about a gap in the market that needs to be filled to accommodate person x, but rather an augmentation and elevation of a current experience[^1]. Done so in a way that makes someone want to use my project rather than what they were doing before. Of those of us who buy expensive mechanical pencils, we are most certainly not all drafting or illustrating regularly.
+
+That’s not to say that you can’t learn to lean on and to the love the mechanical pencil though. I swore by my rOtring 800 for years. The weight, look, and quality of the tool essentially turned me into a snob and I only wanted to write with my rOtring.
+
+There is a difference I’m hoping to achieve with this product as compared to my mechanical pencil phase: you should want to use it but you shouldn’t want to **only** use it. I don’t know whether what I’m wanting to do is something more portable or stationary, but it’s an undeniable truth that there will be times where you could benefit from a product and you won’t have it with you, and in those moments you should be okay. If we take my progress bar as an example, I think this project currently does a good job with this. It encourages you to think about and to make a (hopefully physical) list of what you want to do in a day, with the product itself just being a physical representation of that list. If the product isn’t around nothing about your list changes, and that list is what’s actually important. The product itself just encourages you to do the thing that actually matters, and that habit will hopefully live on with and without the product. This is ultimately the impact a successful design should have.
+
+---
+
+The final thing I really need to be addressing is measuring success. How do I do it? What does it look like? I think my answer right now has to be broad, and I’m torn about whether it’s more qualitative or quantitative in nature. There’s a world where you measure success by looking at the tasks wanted to be completed in a day, and how many were actually completed. You could also measure success by times throughout the week that the user takes the time to take a step back and spends a moment actually thinking about what they want to be doing. You could measure distraction time and see if it diminishes. But I’m hesitant to say whether these are right or not. Because if the product is less about telling you what to do and more about reminding you what you already decided you wanted to do, then something like “stickiness” becomes the important factor. You don’t really care about how much work people are doing, but instead that they use and continue to use your product, and when the product leaves their lives, the practice associated with it stays. That feels qualitative to me.
+
+[^1]: I want to make a quick note though and remind myself that “augmentation and elevation” does not have to mean create something pricy for the sake of making something pricy. I wholeheartedly believe that durability and quality are important but that doesn’t have to mean expensive. I need to remember this.
+

@@ -1,0 +1,75 @@
+## Confidence in Repairability of Electronics
+Electronic waste has been identified as having major environment impact due to the shear number of electronics being thrown away. Because of this, governing bodies are working to enact policy and regulations to address this issue and force companies to prioritize the repairability of their products. But there is another significant factor that needs to be addressed; user’s confidence in the ability to repair the devices in their lives rather than throwing them away. **It does not matter how repairable a device is if the user does not even try before throwing it away.**
+
+I want to explore the factors that are leading to a lack of confidence when it comes to repairing electronics in the hopes that understanding these can lead to potential tools, systems, locations, or principles in how we design electronics to encourage repair--with the long-term hope that repair can disassociate with some of the negative stigma it has now.
+
+### Gaps in Knowledge
+- More research on the perception of repairability
+	- Is it somewhat product dependent? How about type of problem?
+	- What factors change the perception of the repairability?
+- The effectiveness of community repair spaces
+	- “Repair Cafés” and other community repair spaces are spaces trying to address similar problems--What can I learn from them?
+### Methodology
+- Desktop Research
+	- I have identified a couple of studies that are looking into this idea of barriers to repair that I need to continue to read through
+	- Identifying common points of failure within electronics in our lives
+	- A better knowledge of the current and likely future regulation regarding the design of electronics could be beneficial if I move down the direction of electronic design itself
+- Interviews
+	- Interviewing people with varying experience with repair to understand how feelings towards repair potentially change as experience changes, and what repairs people do & do not feel comfortable trying to fix
+	- Interviewing repair institutions such as repair shows and repair community spaces
+- Research Through Design
+	- Time permitting, I think it would be beneficial to design a series of objects with different physical characteristics to see how different elements in a design could change the perception of how easy a repair might be
+### Related Works
+
+## Social Active Listening
+How we listen to music has evolved as the ease of listening to music has improved. Starting with advent of recording, the rise of portable listening devices, and now to digital music catalogs stored in the cloud and on our device we have with us all the time, we are at a point where listening to music has become much more of a solitary experience, and one that most commonly takes place during travel. One of the experiences that’s seemingly diminished as a result of this is a time of active music listening, and active music sharing with others.
+
+With this project, I want to look at ways to encourage people to dedicate time to listen--and to share--music with others. I’m not talking about at the scale of a concert, but instead at the scale of a small group. I could also see this going down a route of looking at ways to bring some physicality into the experience as well, but I am unsure if I want to explore this yet.
+
+### Questions
+- What would be the environment something like this would occur?
+- What are the current ways we see things like exhibitions tackle the idea of physicality in music?
+- How do you implement some factor of meeting people where they are at?
+### Methodology
+- Synthesis of important factors associated with active listening of music
+### Related Works
+
+
+## Beginner Film Making
+This is a project where my intention would be to start the research with a user group, in this case beginner film makers. I expect this to be children in their tween/teen age. I have some hypothesis going into it what I might find--for example I suspect that they are drawn to making videos mimicking elements from video platforms like TikTok and Youtube more than traditional cinema, and traditional cinema inspiration is likely related to films with fantastical feats visually shown with VFX--but in the end, through observation and interviews, I want to know the inconveniences they are feeling most frequently.
+
+**The goal with this project would be to do what I can to encourage people at the beginning of the film making journey to keep going.** I could see that moving in a couple of different directions; from the tools they use to teaching them tricks that are used both physically and in editing, but any solution I think of right now would be coming from me, and not the group of people I want to talk to and help.
+
+### Gaps in Knowledge
+There’s a lot, and that’s the point for the most part. The most important one for me figure out first though is who actually falls within this user group, and how can I find them?
+### Methodology
+Observational research and user interviews. Once I have a better sense of commonalities in this user group I can then transition into more specific research questions/topics to help find criteria to evaluate ideas on, but this approach has to start broad to work.
+### Related Works
+
+## Learning/Experiencing the History of a Technology or Mechanism Physically
+This project is generally a bit broad--I am very much aware of this--but I want to explore the idea of teaching a history of an object in a tactile, physical manner. History is often taught to us through textbooks, by teachers, through media, and therefore isn’t always suited for kinesthetic learners. But if you’re interested in the history of a physical object, it makes sense to me that there should be some physicality involved in learning the history of it to.
+
+My half-baked idea in this space is the idea of the complexity related to the Apollo program and going to space. How can you almost retell the history in a way where someone(s) interested in learning it can be part of the development or build something themselves? After that how can you them show off how far developments in that area have come since then? For example in terms of sheer computing power, there are now USB-C chargers with more faster processing, more storage, and more ram than the navigation computer of Apollo 11.
+
+I am open to this not being about space though. There are other technologies, objects, and mechanisms that have also been improved in drastic ways. Things like displays, wireless communication, clocks/watches, data storage all come to mind.
+
+### Methodology
+This would need to start by identifying what product/technology/mechanism I would want to highlight. After that there are other factors I would need to start identifying such as age range of user and their background knowledge.
+### Gaps in Knowledge
+There are a lot, and a lot more that are dependent on what history I’m trying to tell.
+### Related Works
+
+## Perceptions of Objects Based On Manufacturing Method and Execution
+For this project, I want to look at the perception of a project based on how it is physically presented. I originally started thinking about this from the perspective of “building a better project box” for hobbyist electronics. After exploring this route some, and watching *Permission to Muck About*, my train of thought started to shift to thinking about how someone else might perceive an object based on how close the object looks like it could be sold in a store, and the implications that has on a community that largely builds prototypes of varying levels of quality.
+
+While there is much written about this in the context of creating prototypes for research, I want to look through this information and try to apply it in ways that can benefit the hobbyist community as a whole. The goal would be to identify potential negative influences on a general public’s perception of objects at varying quality and manufacturing methods, and to design a solution to help the hobbyist community in building prototypes that avoid these influences.
+
+### Gaps in Knowledge
+- There is more reading that needs to be done in the research field around prototyping quality
+- Look into the hobbyist field to understand the quality of prototypes/projects and try to group projects to identify overarching stages of the prototyping process
+### Methodology
+- Research through Design
+	- This will require me to conduct research with various prototypes at different levels of quality to test perceptions
+### Related Works
+
+

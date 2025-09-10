@@ -1,0 +1,9 @@
+## Progress Bar v4 Overview
+
+- Mechanism works way better, happy I’ve gone this direction
+- Still don’t like the look -> time to redesign the form
+- While the whiteboard works well, it looks like absolute shit. Also I’ve been looking and I can’t find a good looking whiteboard marker, so showing off the object with a marker is going to look shit as well. I really don’t want to move forward with this method
+- It feels too large. I printed off a scale model that is like 70% of the size and I like it so much more. Because it’s a desk item it can’t take up too much real estate on someone’s desk
+- I’m not gonna make the windows just because I don’t want to have to deal with CNC
+- Acetal still needs to be sanded and smoothed to get rid of the tabs
+- Still haven’t got an index shape I like yet. The long spring one feels and sounds the nicest but it can’t be reversed

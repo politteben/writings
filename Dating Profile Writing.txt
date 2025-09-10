@@ -1,0 +1,27 @@
+# Dating Profile Writing
+### Bio
+Hi there, I’m Ben! I’m an industrial designer with an interest in providing thoughtful innovation in existing product categories without alienating existing users or the work that came before me. I want to design objects for those who care deeply about the product category I’m designing within, as well as encourage newcomers to become those types of people. I have a strong background in prototyping, digital fabrication, and circuit design/coding.
+
+I have just moved to London after growing up in the United States, so a lot of my time is currently spent walking around and exploring the area. That being said I also have interests relating to tennis, F1, Apple, jazz, musicals, stationary, and mechanical keyboards.
+
+### Previous Experience
+I studied Industrial Design at Georgia Tech for my undergraduate degree. After that I worked for 3 years doing R&D work for a power tool company. My predominant role was prototyping and building demos for trade shows, but I was also heavily involved in research as well.
+
+### Skills
+- Tennis
+- Electronics
+- Digital Fabrication
+- Research
+- Hyper-Fixation
+
+### Skills To Development
+- Advanced CAD Methods(Surface Modeling, Sub-D Modeling, Node-Based Modeling)
+- Visualization
+- Design for Manufacturing
+- Machining
+- Picking up an Instrument
+
+### Inspirations
+- Ian Hubert
+- Jony Ive
+- Isaac Blackensmith 

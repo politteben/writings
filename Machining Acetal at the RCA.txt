@@ -1,0 +1,19 @@
+## Machining Acetal at the RCA
+
+With the current version of the progress bar, I wanted to machine the outer housing out of Acetal. Firstly because the footprint is larger than the bed of my printer, but also because acetal is a naturally lubricating material, meaning that the gear train will run smoothly. So I bought enough acetal to make 3 housings, meaning I’ll have 3 that I can use for testing. I submitted the parts to CNC a couple of weeks ago and still have not heard back about them being done. I assumed this would a quick process as really my parts are not overly complicated I don’t think, but I’m gonna have to go check up on it.
+
+---
+
+CNC messed up the parts. There was some movement of the piece that Steve apologized for and they are restarting them now. It does mean that I now only have material for 2 progress bars, but I can make that work. Maybe I use the old version as well and give that to someone who I think is more able to imagine what a more final version would be. But they’ll be missing the writing on the flaps and whatnot which sucks.
+
+---
+
+Got the bottoms of the two back so that’s good! They look pretty good actually which is also nice. Now onto making the tops.
+
+---
+
+They messed up the tops again. This time they were flipped the wrong way so they’re just not usable at all. And I’m out of material now. So now I’m nearly 2 months in of waiting for these parts, with enough material to make 3 whole progress bars, and all I’ve got is 2 bottoms and no material left. So I bought more material. This has put me so far behind on the progress bar. Because I basically don’t have anything to actually test with now. And who the fuck knows when it’s gonna get done now.
+
+---
+
+Steve ended up handing the tops off to Kensington to get cut, which they did finally. They did still mess them up, but they’re at least workable. Just you know, over 2 months late. I’ve used the time getting everything else ready though so now they can be assembled.

@@ -1,0 +1,27 @@
+## Making a Ball Mold
+
+I finally had time to go into Future Materials and start to work on the mold for the ball.
+
+In talking with them, they think that we can do two halves that are then glued together. They seem to think they found a glue that will work for that, which is exciting.
+
+The alternative to the core is to do something that I came up with, where I have a 3D print made of PVA that holds the core in the center. You cast completely around it, and it has indents for rods that hold the core in the center. Then, after you cast the whole solid ball, you leave basically one opening hole so you can submerge the whole thing in water, and the water will dissolve the PVA. But it would mean that I have to make all the electronics waterproof, which would suck.
+
+So I'm hoping that this direction works.
+
+---
+
+I ended up buying a 70 millimeter diameter acrylic sphere that I'm using as the negative to make the silicone mold for the polyurethane. I have two different polyurethane hardnesses—one with a 60A shore hardness and one with a 70A shore hardness. So I'm starting off by making the silicone mold in the two halves of that and then cutting them open so that we have two hemispheres to then try to pour the polyurethane into.
+
+I purchased one of the glues, and I'm hoping it will be fine, but worst case scenario, I can purchase the other one. I'm still not 100% convinced the glue is going to work because it's just a dedicated specialty CA glue for elastomers that says it can deform up to 200%. And I'm worried that the bounce will be more than a 200% deformation. But we'll see. This is what testing is for.
+
+I don't have the core shape fully figured out yet in terms of how big it will be. So right now, I'm just moving forward with this assumption that it's a sphere. But because this is just testing of material hardness, wall thickness, and just the ability to glue halves together, that's not of a huge concern right now. Plus, it doesn't change what the outer silicone mold is.
+
+---
+
+I just finished assembling—or casting—the first two half spheres of the two different materials: the 60 and the 70A hardness. It's promising. It seems like the 70 is the right material because of the deformation amount. The 60 feels too soft, but it does have a better bounce. I'm happy to move forward with the 70 in this case.
+
+I tried to include rods—polyurethane sort of pieces—that can hold the core in my negative for the middle, but they were so thin that they did not mold well, and they broke in the removal process. That means the rods holding the core in the center are going to have to be separate parts. So I'll have to adjust the shape of the core to accept them and hold them in place.
+
+I'm a bit worried about rotation still, but having a core that is not perfectly spherical will hopefully help with that because it can lock it in a little bit more.
+
+The glue has not arrived yet, so I can't test whether that will work. And these first tests don't have any pigment in them, so they’re the natural off-yellow color and not the red that I’m looking for.
